@@ -1,8 +1,3 @@
-# Soul-bridge
-Perfect 🔥 Let’s create a **beautiful, contributor-friendly `README.md`** for your **Soul Bridge** project — designed to attract open-source contributors, inspire readers, and look stunning on GitHub.
-
----
-
 # 🌉 **Soul Bridge**
 
 > 🪶 *Your AI Reading Companion that explains English books in Hinglish — with emotions and desi vibes.*
