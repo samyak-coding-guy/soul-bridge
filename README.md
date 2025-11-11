@@ -127,8 +127,8 @@ You can help by:
 ## 🧑‍💻 **Maintainer**
 
 **👤 Samyak Jain**
-📧 [Connect on LinkedIn](https://linkedin.com/in/samyakjain)
-🌐 [Vercel App Link](https://v0-soul-bridge.vercel.app)
+📧 [Connect on LinkedIn](https://linkedin.com/in/samyak-coding-guy)
+🌐 [Vercel App Link](https://v0-soul-bridge-ai.vercel.app)
 
 ---
 
